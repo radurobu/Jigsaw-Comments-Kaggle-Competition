@@ -1,7 +1,7 @@
 # Jigsaw-Comments-Kaggle-Competition
 Jigsaw Rate Severity of Toxic Comments SILVER Medal
 
-*This repository presents my approach for the "Jigsaw Rate Severity of Toxic Comments" Kaggle competition. My approach ranked 91 out of 2.301 teams and rewarded a Kaggle silver medal.
+**This repository presents my approach for the "Jigsaw Rate Severity of Toxic Comments" Kaggle competition. My approach ranked 91 out of 2.301 teams and rewarded a Kaggle silver medal.**
 
 ## Description:
 
